@@ -1,1 +1,0 @@
-# furia_social
