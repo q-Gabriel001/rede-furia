@@ -69,7 +69,7 @@ Este projeto simula uma rede social voltada à comunidade da FURIA, com foco em:
 ##  Possíveis melhorias futuras
 
 -  Sistema de conquistas por engajamento  
-- 🗳 Votação em enquetes nas postagens  
+-  Votação em enquetes nas postagens  
 -  Gamificação com missões e recompensas  
 -  Personalização de perfil e temas  
 
@@ -77,6 +77,6 @@ Este projeto simula uma rede social voltada à comunidade da FURIA, com foco em:
 
 ##  Desenvolvido por
 
-**Gabriel Araújo**  
-- GitHub: [Mr-Princee](https://github.com/Mr-Princee)  
+**Gabriel Araújo
+- GitHub: [q-Gabriel001](https://github.com/q-Gabriel001)  
 - LinkedIn: [Gabriel Araújo](https://www.linkedin.com/in/gabriel-araujo2001/)
