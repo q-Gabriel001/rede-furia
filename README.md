@@ -77,6 +77,7 @@ Este projeto simula uma rede social voltada à comunidade da FURIA, com foco em:
 
 ##  Desenvolvido por
 
-**Gabriel Araújo
+Gabriel Araújo Soares
+
 - GitHub: [q-Gabriel001](https://github.com/q-Gabriel001)  
 - LinkedIn: [Gabriel Araújo](https://www.linkedin.com/in/gabriel-araujo2001/)
